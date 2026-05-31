@@ -15,5 +15,6 @@
 
 
 #### Databases
-<img src = "https://img.shields.io/badge/PostgreSQL-617080.svg?style=flat&logo=postgresql&logoColor=white">
+<img src = "https://img.shields.io/badge/PostgreSQL-617080.svg?style=flat&logo=postgresql&logoColor=white"> <img src = "https://img.shields.io/badge/DynamoDB-953476.svg?style=flat&logoColor=white">
+
 
